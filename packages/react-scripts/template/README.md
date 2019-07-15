@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+And [Tailwindcss](https://tailwindcss.com/) and [PurgeCss](https://www.purgecss.com/) features has been added.
 
 ## Available Scripts
 
